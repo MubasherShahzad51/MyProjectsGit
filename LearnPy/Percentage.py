@@ -1,5 +1,5 @@
+# program to find percenytage using str function
 from pip._vendor.distlib.compat import raw_input
-
 marks = raw_input('Enter your Obtain marks:')
 outof = raw_input('Enter Out of marks:')
 marks = int(marks)

@@ -1,3 +1,4 @@
+# program for addition of three variables
 num1 = 10
 num2 = 40
 num3 = 100
