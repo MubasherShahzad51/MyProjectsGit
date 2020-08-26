@@ -1,2 +1,2 @@
 # MyProjectsGit
- This is my projects for python learning
+ These are my projects for python learning
